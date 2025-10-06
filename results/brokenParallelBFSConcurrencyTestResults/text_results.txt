@@ -1,0 +1,3 @@
+RESULT  SAMPLES     FREQ       EXPECT  DESCRIPTION
+ false       46   47,92%  Interesting  Обнаружена гонка данных: количество посещенных вершин != ...
+  true       50   52,08%   Acceptable  Все вершины посещены по одному разу
